@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "/Users/gayathrinannapaneni/Desktop/Fullstack/python/djreact/backend/env/bin/python3.9",
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintPath": "/path/to/pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.venvPath": "${workspaceFolder}/backend/env/bin/python3.9",
+    "python.linting.pylintEnabled": true
+}
